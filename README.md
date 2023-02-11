@@ -1,5 +1,5 @@
 
-# &nbsp; &nbsp; WeSplit
+# &nbsp; WeSplit
 
 ### Project 1  
 ##### Author: *[MatviiArtemenko](https://github.com/100DaysOfSwiftUI-MatviiArtemenko)*
@@ -10,13 +10,13 @@
 
 ---
 
-> &nbsp; *This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. The project in itself isn’t complicated, but we’ll be taking it slow so you can see exactly how these fundamentals fit together.*
+> *This project is a check-sharing app that calculates how to split a check based on the number of people and how much tip you want to leave. The project in itself isn’t complicated, but we’ll be taking it slow so you can see exactly how these fundamentals fit together.*
 
 ---
 
 ## &nbsp; 📚 Covered topics
 
-  &nbsp; Form, Section, NavigationView, @State, @FocusState, TextField, Picker, ForEach
+  Form, Section, NavigationView, @State, @FocusState, TextField, Picker, ForEach
 
 ---
 ## &nbsp; 🎖 Challenge
