@@ -1,19 +1,12 @@
 
-<body>
-    <h1 style = "text-align:center" >WeSplit</h1>
-    <h4 style = "text-align:center" >Project 1</h4>
-    <h5 style = "text-align:center" >Author: <a href="https://github.com/100DaysOfSwiftUI-MatviiArtemenko">MatviiArtemenko</a></h5> </br>
-</body>
+# &nbsp; &nbsp; WeSplit
 
- <!-- # &nbsp; &nbsp; WeSplit
+### Project 1  
+##### Author: *[MatviiArtemenko](https://github.com/100DaysOfSwiftUI-MatviiArtemenko)*
 
-### Project 1
-#### *Author:* [MatviiArtemenko](https://github.com/100DaysOfSwiftUI-MatviiArtemenko)
--->
+##### 100DaysOfSwiftUI form *[@twostraws](https://twitter.com/twostraws "twostraws twitter page")*
 
-##### *100DaysOfSwiftUI form* [@twostraws](https://twitter.com/twostraws "twostraws twitter page")
-
-##### *Follow along:*  [100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui "Hacking with Swift")
+##### Follow along: *[100DaysOfSwiftUI](https://www.hackingwithswift.com/100/swiftui "Hacking with Swift")*
 
 ---
 
@@ -23,7 +16,7 @@
 
 ## &nbsp; 📚 Covered topics
 
-  Form, Section, NavigationView, @State, @FocusState, TextField, Picker, ForEach
+  &nbsp; Form, Section, NavigationView, @State, @FocusState, TextField, Picker, ForEach
 
 ---
 ## &nbsp; 🎖 Challenge
@@ -31,10 +24,10 @@
 
 * [x] Add another section showing the total amount for the check – i.e., the original amount plus tip value, without dividing by the number of people.
 
-* [x] Change the tip percentage picker to show a new screen rather than using a segmented control, and give it a wider range of options – everything from 0% to 100%. Tip: use the range <0..<101> for your range rather than a fixed array. 
+* [x] Change the tip percentage picker to show a new screen rather than using a segmented control, and give it a wider range of options – everything from 0% to 100%. Tip: use the range 0..<101 for your range rather than a fixed array. 
 <br>
----
 
+---
 ## &nbsp; 📲 Screenshoot
 
 <!-- add screenshots here!!! -->
