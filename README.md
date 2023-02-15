@@ -29,7 +29,13 @@
 
 ---
 ## &nbsp; 📲 Screenshoot
- ![](1.png)
+
+ <p align="center">
+  <img 
+    width="250"
+    src="1.png"
+  >
+</p>
 
 <!-- add screenshots here!!! -->
 ---
