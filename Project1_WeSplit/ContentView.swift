@@ -39,7 +39,7 @@ struct ContentView: View {
                     Text("Amount to pay")
                         .foregroundColor(.black)
                         .font(.title.weight(.bold))
-                    TextField(" Write the amout to pay", value: $amountToPay, format: .currency(code: Locale.current.currencyCode ?? " USD")).padding(.horizontal)
+                    TextField(" Write the amout to pay", value: $amountToPay, format: .currency(code: Locale.current.currencyCode ?? " GBP")).padding(.horizontal)
                         .keyboardType(.decimalPad)
                         .font(.headline)
                         .focused($isFocused)
@@ -98,18 +98,17 @@ struct ContentView: View {
                         HStack {
                             Text("Total sum")
                             Spacer()
-                            Text(calculatedSum, format: .currency(code: Locale.current.currencyCode ?? "USD"))
+                            Text(calculatedSum, format: .currency(code: Locale.current.currencyCode ?? "GBP"))
                                 .padding(.trailing)
                         }
                         HStack {
-                            Text("Per single person")
+                            Text("Per person")
                             Spacer()
-                            Text(sumDividedPerPerson,format: .currency(code: Locale.current.currencyCode ?? "USD"))
+                            Text(sumDividedPerPerson,format: .currency(code: Locale.current.currencyCode ?? "GBP"))
                                 .padding(.trailing)
                         }
                     }
                     .font(.title2.weight(.semibold))
-                    .frame(width: .infinity, height: .infinity, alignment: .center)
                     .ignoresSafeArea()
                     .padding(.bottom)
                     .padding([.all, .top])
