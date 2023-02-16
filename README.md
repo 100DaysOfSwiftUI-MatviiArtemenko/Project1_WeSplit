@@ -37,8 +37,8 @@
   >
 </p>
 
-<!-- add screenshots here!!! -->
 ---
+
 ##  &nbsp; 🔍 &nbsp; Resources 
 
 * [Hacking With Swift - WeSplit](https://www.hackingwithswift.com/books/ios-swiftui/wesplit-wrap-up)
